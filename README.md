@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Reid!
+# 👋 Hi, I'm Reid!       Official Github here (https://github.com/ThatReid23)
 
 Welcome to my GitHub! I build interactive web projects, AI tools, and automate workflows. Here's a glimpse of what I've been working on:
 
