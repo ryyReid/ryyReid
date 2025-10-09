@@ -11,7 +11,8 @@ Welcome to my GitHub! I build interactive web projects, AI tools, and automate w
 - 🤖 AI/ML: Multi-PC LLM inference systems and automation frameworks  
 
 ---
-
+## Achievements
+ (https://tryhackme.com/room/offensivesecurityintro?sharerId=68e707ac4fad4c435e8f5819)
 ## 🚀 Featured Projects
 
 ### [Reidweb_v3vv](https://github.com/ryyReid/Reidweb_v3vv)
