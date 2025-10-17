@@ -13,6 +13,7 @@ Welcome to my GitHub! I build interactive web projects, AI tools, and automate w
 ---
 ## Achievements
  (https://tryhackme.com/room/offensivesecurityintro?sharerId=68e707ac4fad4c435e8f5819)
+ (https://tryhackme.com/room/defensivesecurityintroqW?utm_campaign=social_share&utm_medium=social&utm_content=room&utm_source=copy&sharerId=68e707ac4fad4c435e8f5819)
 ## 🚀 Featured Projects
 
 ### [Reidweb_v3vv](https://github.com/ryyReid/Reidweb_v3vv)
