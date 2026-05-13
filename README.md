@@ -21,8 +21,7 @@ Welcome to my GitHub! I'm a small dev, AI prompt engineer, and the slightly chao
 
 ## 🚀 Featured Projects
 
-### [Reid-Web-V4](https://reid-web-v4.vercel.app/) & [Reidweb_v3vv](https://github.com/ryyReid/Reidweb_v3vv)
-My ongoing interactive HTML games hubs with dark/green themes. 
+### [Reid-Web-V4](https://reid-web-v4.vercel.app/) & [Reidweb_v3vv](https://github.com/ryyReid/Reidweb_v3vv) 
 - **Latest V4 Live:** [reid-web-v4.vercel.app](https://reid-web-v4.vercel.app/)
 - **V3 Fast Version:** [reidweb-v3vv.vercel.app](https://reidweb-v3vv.vercel.app/)  
 - **V3 Backup Version:** [reidwebv3vv.up.railway.app](https://reidwebv3vv.up.railway.app/)
