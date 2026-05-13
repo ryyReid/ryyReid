@@ -1,31 +1,40 @@
-# 👋 Hi, I'm Reid!       Official Github here (https://github.com/ThatReid23)
+# 👋 Hi, I'm Reid!  
 
-Welcome to my GitHub! I build interactive web projects, AI tools, and automate workflows. Here's a glimpse of what I've been working on:
+Welcome to my GitHub! I'm a small dev, AI prompt engineer, and the slightly chaotic computer guy. I build interactive web projects, custom proxy tools, and push local LLM inference to its limits. Here's a glimpse of what I've been working on:
 
 ---
 
 ## ⚡ About Me
-- 💻 Main PC: Windows 11, AMD Ryzen 5 5500, RTX 3070  
-- 🖥️ Linux server enthusiast – Minecraft, AI, and automation projects  
-- 🎨 Web development: HTML/CSS/JS with animated backgrounds and custom styling  
-- 🤖 AI/ML: Multi-PC LLM inference systems and automation frameworks  
+- 💻 **The Rig:** Custom Dual-GPU setup (NVIDIA RTX 3070 + RTX 2070 Super), 64GB RAM, 1600W PSU.
+- 🐧 **OS Environment:** Windows 11 Pro.  
+- 🤖 **AI/ML:** Building multi-GPU local LLM inference systems and mission-control workspaces using OpenClaw, OpenCode, and LM Studio.  
+- 🧠 **Knowledge Base:** Maintaining a massive "AI Brain" in Obsidian (currently sitting at over 1,400+ notes).
+- 🌐 **Web Dev:** Creating unblocked game hubs and custom proxies hosted on GitHub and Vercel.
 
 ---
-## Achievements
- (https://tryhackme.com/room/offensivesecurityintro?sharerId=68e707ac4fad4c435e8f5819)
- (https://tryhackme.com/room/defensivesecurityintroqW?utm_campaign=social_share&utm_medium=social&utm_content=room&utm_source=copy&sharerId=68e707ac4fad4c435e8f5819)
+
+## 🏆 Achievements
+- [TryHackMe: Offensive Security Intro](https://tryhackme.com/room/offensivesecurityintro?sharerId=68e707ac4fad4c435e8f5819)
+- [TryHackMe: Defensive Security Intro](https://tryhackme.com/room/defensivesecurityintroqW?utm_campaign=social_share&utm_medium=social&utm_content=room&utm_source=copy&sharerId=68e707ac4fad4c435e8f5819)
+
+---
+
 ## 🚀 Featured Projects
 
-### [Reidweb_v3vv](https://github.com/ryyReid/Reidweb_v3vv)
-An interactive HTML games hub with a dark/green theme. Check it out live:  
-- [Fast Version](https://reidweb-v3vv.vercel.app/)  
-- [Backup Version](https://reidwebv3vv.up.railway.app/)
+### [Reid-Web-V4](https://reid-web-v4.vercel.app/) & [Reidweb_v3vv](https://github.com/ryyReid/Reidweb_v3vv)
+My ongoing interactive HTML games hubs with dark/green themes. 
+- **Latest V4 Live:** [reid-web-v4.vercel.app](https://reid-web-v4.vercel.app/)
+- **V3 Fast Version:** [reidweb-v3vv.vercel.app](https://reidweb-v3vv.vercel.app/)  
+- **V3 Backup Version:** [reidwebv3vv.up.railway.app](https://reidwebv3vv.up.railway.app/)
 
-### [Reidweb_56_dev_banch](https://github.com/ryyReid/Reidweb_56_dev_banch)
-A backup development branch for my web projects.
+### [Reidproxy](https://github.com/ryyReid) *(Check my repos!)*
+Custom proxy tools built to keep things accessible, unblocked, and running smoothly.
 
 ### [Reids-Steam-NTFS-Linux--Ubuntu-Drive-Fixer](https://github.com/ryyReid/Reids-Steam-NTFS-Linux--Ubuntu-Drive-Fixer)
 A GUI tool to fix Steam launch and permission issues on Linux when using a Windows NTFS drive for your games.
+
+### [Reidweb_56_dev_banch](https://github.com/ryyReid/Reidweb_56_dev_banch)
+A backup development branch for my web projects.
 
 ---
 
@@ -36,10 +45,10 @@ A GUI tool to fix Steam launch and permission issues on Linux when using a Windo
 ---
 
 ## 🌟 Connect
-- GitHub: [https://github.com/ryyReid](https://github.com/ryyReid)  
-- Portfolio: [https://ryyreid.github.io/Reidweb_v3vv/](https://ryyreid.github.io/Reidweb_v3vv/)
+- **Official GitHub:** [https://github.com/ThatReid23](https://github.com/ThatReid23)
+- **Alt GitHub:** [https://github.com/ryyReid](https://github.com/ryyReid)  
+- **Portfolio:** [https://ryyreid.github.io/Reidweb_v3vv/](https://ryyreid.github.io/Reidweb_v3vv/)
 
 ---
 
 > “Experiment, code, and create with curiosity.”
-
