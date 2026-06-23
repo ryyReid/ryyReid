@@ -8,8 +8,7 @@ Welcome to my GitHub. I am a small dev, AI prompt engineer. I build things for t
 - 💻 **My Computer:** I have a custom setup with two graphics cards (NVIDIA RTX 3070 and RTX 2070 Super), 64GB of RAM, and a 1600W power supply.
 - 🐧 **My Operating System:**  Windows 11 Pro.
 - 🤖 **AI and Machine Learning:** I am building systems that use graphics cards for local LLM inference, and I use OpenClaw, OpenCode, and LM Studio to make it all work.
-- 🧠 **My Knowledge Base:** I maintain a "AI brain" in Obsidian with over 1,418 notes so far.
-- 🌐 **Web Development:** I make unblocked game hubs and custom proxies that are hosted on GitHub and Vercel.
+- 🌐 **Web Development:** I make game hubs and custom proxies that are hosted on GitHub and Vercel.
 
 ---
 
