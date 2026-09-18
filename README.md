@@ -1,14 +1,20 @@
-# Hi, I’m Reid
+<div align="center">
 
-I’m a small developer who likes building things for the web and making custom tools.
+# REID
 
-I mostly work with HTML, CSS, JavaScript, Vercel, python
+`WEB DEVELOPMENT` · `CUSTOM TOOLS`
 
-## My Links
+I build things for the web and make tools I actually want to use.
 
--[GitHub](https://github.com/ThatReid23) - Main for ai 
+`HTML`　`CSS`　`JavaScript`　`Python`　`Vercel`
 
--[Portfolio](https://ryyreid.github.io/Reidweb_v3vv/)
+<br>
+
+[GitHub](https://github.com/ThatReid23) • [Portfolio](https://ryyreid.github.io/Reidweb_v3vv/)
+
+</div>
+
+---
 
 ```diff
 -                             .:-=+=:    ...
@@ -36,4 +42,3 @@ I mostly work with HTML, CSS, JavaScript, Vercel, python
 -                                         .+*      :%.   :-
 -                                           #      .=    :
 -                                           +
-```
