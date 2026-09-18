@@ -1,11 +1,11 @@
-<h1 align="center">Hi, I'm Reid 👋</h1>
+<h1 align="center">Hi, I'm Reid </h1>
 
 <p align="center">
   <b>Developer • Web Builder • Custom Tools</b>
 </p>
 
 <p align="center">
-  I build things for the web, experiment with new ideas, and make custom tools.
+ I build thanges for fun because why not and yes all of my stuff is 100% by Ai but i have the idea's
 </p>
 
 ---
