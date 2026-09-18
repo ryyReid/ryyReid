@@ -1,11 +1,15 @@
-<h1 align="center">Hi, I'm Reid </h1>
+<h1 align="center">Hi, I'm Reid 👋</h1>
 
 <p align="center">
   <b>Developer • Web Builder • Custom Tools</b>
 </p>
 
 <p align="center">
- I build thanges for fun because why not and yes all of my stuff is 100% by Ai but i have the idea's
+  I build things for the web, experiment with new ideas, and make custom tools.
+</p>
+
+<p align="center">
+  <i>I build thanges for fun because why not and yes all of my stuff is 100% by Ai but i have the idea's</i>
 </p>
 
 ---
@@ -14,7 +18,7 @@
 
 - 💻 I enjoy building websites, tools, and small experiments
 - 🌐 Most of my work is web-based
-- 🛠 I like creating things from scratch instead of relying on templates
+- 🛠️ I like creating things from scratch instead of relying on templates
 - ⚡ Usually experimenting with something new
 
 ---
@@ -49,3 +53,66 @@ Custom Tools      ████████████████░░
 JavaScript        ███████████████░░░
 Python            ████████████░░░░░░
 Experimenting     ███████████████████
+```
+
+---
+
+## GitHub
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=ThatReid23&show_icons=true&hide_border=true&theme=transparent&title_color=ff3030&icon_color=ff3030&text_color=ffffff"
+    height="165"
+  />
+
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThatReid23&layout=compact&hide_border=true&theme=transparent&title_color=ff3030&text_color=ffffff"
+    height="165"
+  />
+</p>
+
+---
+
+## Links
+
+<p align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-ThatReid23-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ThatReid23)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-8B0000?style=for-the-badge&logo=firefox&logoColor=white)](https://ryyreid.github.io/Reidweb_v3vv/)
+
+</p>
+
+---
+
+```diff
+-                             .:-=+=:    ...
+-                     :: :=+#%@%#*+*#%@@@%##***+-:.
+-                 .=#%*#@@@@@@@@@%#@@@@@@@@@@@@@@@@@%*+=-.
+-               -*@@@@@@@@@@@@@@@@@%%%%@@@@@@@@@%*=:
+-             -%@@@@@@@@@@@@%##*###%@@@@@@@@@@#%@@@@*
+-           .*@@%@@@@@@@%#*##@*++**+==+*%%#+-=###%%##*#*++=-:
+-           =*+:+@@@@@@%%%*=:.::      .:- :+%@@@@@@%#**+=:.
+-         -=**: -*#%*==::    =#@:  -*#%##%@@@@@@@@@@@@@@%#%%*-
+-       =%@@@%*:         =@+==%#  +@@@@@@@@@%*+===+**#@@@%*+=*#=
+-     -*+.#-..+%          :+**=:-*@@@@@@@@@@%%##**%@%#***%%@%*: .
+-    #@@@+:#%*#@-..=+++**=:  .:=%@@%#%%@@@@@@@@@@@@@@@@%*=+#@@%=-
+-   #*@@@@%+-=*%@#@%@@@@@@@@%#++===+#%%@@@@@@@@@@%*+==+#%@#- :=+-.
+-  :+=@@*---+%*.=###*++++=--------=#@@@@@%#*+--:+%@@%*-:=%@@%+
+-  -..%:       .:---=+********=:=%@@@@@@@@@@@@@%#++*%@@*...=#@%-
+-     :    .---.  :++++-..-=*#%@@@@@%%#%@@%#%@@@%**%#%@@#-#+. =%*.
+-       :::     .::.....:.       :::=+*++*#%+=#@@@#:=#@@@* +@#. .+-
+-      =                   :=*#++*##%%%@@%+#@%-.=%@%: -%@@- -%*.
+-      :                  .::: .   :=+%%@@%-.+%= :+%@-  #@#  :.#
+-                             :        .=%@@-  *= **#%. -@@    --
+-                                      .: :*%.  : .@@@* .=@.    :
+-                                       .*-  -     *@@-  .@
+-                                         ##.      -@*   .#
+-                                         .+*      :%.   :-
+-                                           #      .=    :
+-                                           +
+```
+
+<p align="center">
+  <sub>building things one idea at a time.</sub>
+</p>
