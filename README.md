@@ -1,25 +1,16 @@
-<h1 align="center">Hi, I'm Reid </h1>
+<h1 align="center">Hi, I'm Reid</h1>
 
 <p align="center">
   <b>Developer • Web Builder • Custom Tools</b>
 </p>
 
 <p align="center">
-  I build things a random
+  I build things at random
 </p>
 
 <p align="center">
   <i>I build thanges for fun because why not and yes all of my stuff is 100% by Ai but i have the idea's</i>
 </p>
-
----
-
-## About Me
-
-- 💻 I enjoy building websites, tools, and small experiments
-- 🌐 Most of my work is web-based
-- 🛠️ I like creating things from scratch instead of relying on templates
-- ⚡ Usually experimenting with something new
 
 ---
 
@@ -98,5 +89,5 @@ Experimenting     ███████████████████
 ```
 
 <p align="center">
-  <sub>building things one idea at a time.</sub>
+  <sub>build things at random.</sub>
 </p>
