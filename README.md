@@ -39,11 +39,11 @@
 ## What I'm Into
 
 ```text
-Web Development   ██████████████████
-Custom Tools      ████████████████░░
-JavaScript        ███████████████░░░
-Python            ████████████░░░░░░
-Experimenting     ███████████████████
+Web Development   ██████████████░░░░░
+Custom Tools      ████████████████░░░░░░░░░
+JavaScript        ███████████████░░░░░░░░░░
+Python            ████████████░░░░░░░░░░░░░
+Experimenting     █████████████████████████
 ```
 
 ---
