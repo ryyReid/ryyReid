@@ -1,11 +1,11 @@
-<h1 align="center">Hi, I'm Reid 👋</h1>
+<h1 align="center">Hi, I'm Reid </h1>
 
 <p align="center">
   <b>Developer • Web Builder • Custom Tools</b>
 </p>
 
 <p align="center">
-  I build things for the web, experiment with new ideas, and make custom tools.
+  I build things a random
 </p>
 
 <p align="center">
@@ -54,22 +54,6 @@ JavaScript        ███████████████░░░
 Python            ████████████░░░░░░
 Experimenting     ███████████████████
 ```
-
----
-
-## GitHub
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=ThatReid23&show_icons=true&hide_border=true&theme=transparent&title_color=ff3030&icon_color=ff3030&text_color=ffffff"
-    height="165"
-  />
-
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThatReid23&layout=compact&hide_border=true&theme=transparent&title_color=ff3030&text_color=ffffff"
-    height="165"
-  />
-</p>
 
 ---
 
