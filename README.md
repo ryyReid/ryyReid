@@ -12,7 +12,7 @@
   <i>I build thanges for fun because why not and yes all of my stuff is 100% by Ai but i have the idea's</i>
 </p>
 
--h-i-
+-a-h-
 
 ## Technology Stack
 
